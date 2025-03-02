@@ -1,0 +1,23 @@
+# Core Libraries
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Machine Learning Model
+xgboost==1.7.3
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Model Deployment
+flask==2.2.5
+fastapi==0.95.0
+uvicorn==0.22.0
+
+# API & Web Scraping (if needed)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Jupyter Notebook (if working in notebooks)
+jupyter==1.0.0
